@@ -6,7 +6,7 @@
 
 
     <EditText
-        android:id="@+id/edit_text"
+        android:id="@+id/edit_Text"
         android:layout_margin="12dp"
         android:textSize="23sp"
         android:layout_width="match_parent"

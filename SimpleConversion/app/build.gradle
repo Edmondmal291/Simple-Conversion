@@ -20,5 +20,7 @@ android {
 }
 
 dependencies {
+    //unit testing dependencies
+    compile'com.jayway.android.robotium:robotium-solo:5.3.1'
     compile fileTree(include: ['*.jar'], dir: 'libs')
 }

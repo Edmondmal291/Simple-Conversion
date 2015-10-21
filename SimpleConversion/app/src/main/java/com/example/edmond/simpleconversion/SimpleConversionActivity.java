@@ -25,7 +25,7 @@ public class SimpleConversionActivity extends Activity {
         // set the user interface layout for this Activity
         setContentView(R.layout.activity_simple_conversion);
         // Initialize  member variables
-        mEditText = (EditText) findViewById(R.id.edit_text);
+        mEditText = (EditText) findViewById(R.id.edit_Text);
         mTextView = (TextView) findViewById(R.id.text_view);
         /*Uri number= Uri.parse("tel:2053171420");
          callIntent=new Intent(Intent.ACTION_DIAL,number);*/
